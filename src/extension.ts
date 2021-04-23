@@ -20,7 +20,7 @@ const setTimer = () => {
 		// console.log('timer=>', timer);
 
 		if (hours > 1 && timer) {
-			vscode.window.showInformationMessage(`🤨 爸爸，您已经工作 ${hours} 小时了，快去休息一下~`);
+			vscode.window.showInformationMessage(`🐈小祖宗，您已经工作 ${hours} 小时了，快滚去休息一下`);
 			clearTimer();
 			setTimer();
 		}

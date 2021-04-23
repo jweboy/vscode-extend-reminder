@@ -2,7 +2,7 @@
   "name": "reminder",
 	"displayName": "reminder",
 	"description": "vscode提醒插件",
-	"version": "0.1.0",
+	"version": "0.1.1",
 	"engines": {
 		"vscode": "^1.55.0"
 	},
